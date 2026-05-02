@@ -1,6 +1,6 @@
 # Static Electrical Contractor Website
 
-Generic, brand-skinnable static site modeled after the structure of Miller Electric (mecojax.com) and Puckett Electric (puckettelectric.com). No build step, no framework, no JS dependencies beyond a 30-line mobile-nav script.
+Generic, brand-skinnable static site
 
 ## Layout
 
